@@ -12,7 +12,7 @@ import java.util.Scanner;
            double peso = sc.nextDouble();
 
         System.out.print("Digite a quantidade de água já ingerida pelo funcionário no dia de hoje em litros: ");
-          double qtAAguaIngerida = sc.nextDouble();
+          double qtdAguaIngerida = sc.nextDouble();
 
            int qtdIdealAgua = (int) ((peso * 35) / 1000);
 
